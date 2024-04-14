@@ -1,1 +1,1 @@
-# js-toggle
+# js-practics
